@@ -1,3 +1,5 @@
-# Hacktoberfest-2k18
+# Hacktoberfest-2k18 :see_no_evil:
 
-Happy Hacking!
+All you have to do is... raise 5 PRs and get a Hacktobefest T-shirt. :tshirt:
+
+Happy Hacking! :smiling_imp:
